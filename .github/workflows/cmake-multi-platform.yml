@@ -1,0 +1,44 @@
+name: C++ LeetCode Solutions
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup C++
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y g++
+
+      - name: Compile all C++ solutions
+        run: |
+          failed=0
+
+          for file in $(find . -name "*.cpp"); do
+            echo "----------------------------------------"
+            echo "Compiling: $file"
+            echo "----------------------------------------"
+
+            if g++ -std=c++17 -Wall -Wextra -c "$file" -o /tmp/test.o; then
+              echo "✓ $file compiled successfully"
+            else
+              echo "✗ $file failed to compile"
+              failed=1
+            fi
+          done
+
+          if [ $failed -ne 0 ]; then
+            echo "Some solutions failed to compile."
+            exit 1
+          fi
+
+          echo "All C++ solutions compiled successfully."
