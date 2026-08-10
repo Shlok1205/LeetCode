@@ -28,7 +28,13 @@ jobs:
             echo "Compiling: $file"
             echo "----------------------------------------"
 
-            if g++ -std=c++17 -Wall -Wextra -c "$file" -o /tmp/test.o; then
+            {
+              echo '#include <bits/stdc++.h>'
+              echo 'using namespace std;'
+              cat "$file"
+            } > /tmp/solution.cpp
+
+            if g++ -std=c++17 -Wall -Wextra -c /tmp/solution.cpp -o /tmp/test.o; then
               echo "✓ $file compiled successfully"
             else
               echo "✗ $file failed to compile"
