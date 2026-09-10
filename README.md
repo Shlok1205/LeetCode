@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Shlok1205/LeetCode/tree/master/0133-clone-graph) |
 | [1331-rank-transform-of-an-array](https://github.com/Shlok1205/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shlok1205/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shlok1205/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Shlok1205/LeetCode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Shlok1205/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shlok1205/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Shlok1205/LeetCode/tree/master/0743-network-delay-time) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Shlok1205/LeetCode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Shlok1205/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shlok1205/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Shlok1205/LeetCode/tree/master/0743-network-delay-time) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Shlok1205/LeetCode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Shlok1205/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shlok1205/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Shlok1205/LeetCode/tree/master/0743-network-delay-time) |
