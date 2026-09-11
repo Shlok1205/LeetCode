@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Node {
 public:
     int val;
@@ -15,20 +18,21 @@ public:
         neighbors = _neighbors;
     }
 };
+
 class Solution
 {
 public:
-    unordered_map<Node*,Node*> mp;
+    unordered_map<Node*, Node*> mp;
 
     Node* dfs(Node* node)
     {
-        if(mp.find(node)!=mp.end())
+        if (mp.find(node) != mp.end())
             return mp[node];
 
-        Node* clone=new Node(node->val);
-        mp[node]=clone;
+        Node* clone = new Node(node->val);
+        mp[node] = clone;
 
-        for(Node* neighbour:node->neighbors)
+        for (Node* neighbour : node->neighbors)
         {
             clone->neighbors.push_back(dfs(neighbour));
         }
@@ -38,7 +42,7 @@ public:
 
     Node* cloneGraph(Node* node)
     {
-        if(node==NULL)
+        if (node == NULL)
             return NULL;
 
         return dfs(node);
