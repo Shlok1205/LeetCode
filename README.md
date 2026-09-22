@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shlok1205/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok1205/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shlok1205/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shlok1205/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/Shlok1205/LeetCode/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shlok1205/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shlok1205/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shlok1205/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok1205/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shlok1205/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shlok1205/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shlok1205/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shlok1205/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shlok1205/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shlok1205/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shlok1205/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shlok1205/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Shlok1205/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shlok1205/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shlok1205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shlok1205/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
