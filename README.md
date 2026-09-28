@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shlok1205/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Shlok1205/LeetCode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shlok1205/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1122-relative-sort-array](https://github.com/Shlok1205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Shlok1205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Shlok1205/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shlok1205/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Shlok1205/LeetCode/tree/master/0133-clone-graph) |
 | [1096-brace-expansion-ii](https://github.com/Shlok1205/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1122-relative-sort-array](https://github.com/Shlok1205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shlok1205/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shlok1205/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shlok1205/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shlok1205/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shlok1205/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/Shlok1205/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1122-relative-sort-array](https://github.com/Shlok1205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Shlok1205/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shlok1205/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shlok1205/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/Shlok1205/LeetCode/tree/master/1122-relative-sort-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shlok1205/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
@@ -580,10 +584,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shlok1205/LeetCode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Shlok1205/LeetCode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shlok1205/LeetCode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/Shlok1205/LeetCode/tree/master/1122-relative-sort-array) |
 ## Quickselect
 |  |
 | ------- |
