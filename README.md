@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shlok1205/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0410-split-array-largest-sum](https://github.com/Shlok1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Shlok1205/LeetCode/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shlok1205/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shlok1205/LeetCode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Shlok1205/LeetCode/tree/master/0835-image-overlap) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shlok1205/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shlok1205/LeetCode/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Shlok1205/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Shlok1205/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shlok1205/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shlok1205/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shlok1205/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shlok1205/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shlok1205/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shlok1205/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shlok1205/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shlok1205/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Linked List
 |  |
@@ -619,4 +624,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Shlok1205/LeetCode/tree/master/0164-maximum-gap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
