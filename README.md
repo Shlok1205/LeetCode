@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shlok1205/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shlok1205/LeetCode/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/Shlok1205/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Shlok1205/LeetCode/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Shlok1205/LeetCode/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/Shlok1205/LeetCode/tree/master/0867-transpose-matrix) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/Shlok1205/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Shlok1205/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Shlok1205/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shlok1205/LeetCode/tree/master/1260-shift-2d-grid) |
