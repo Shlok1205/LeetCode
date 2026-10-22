@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shlok1205/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shlok1205/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shlok1205/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Shlok1205/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shlok1205/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shlok1205/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shlok1205/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shlok1205/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shlok1205/LeetCode/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Shlok1205/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Shlok1205/LeetCode/tree/master/0835-image-overlap) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shlok1205/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Shlok1205/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Shlok1205/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Shlok1205/LeetCode/tree/master/0486-predict-the-winner) |
