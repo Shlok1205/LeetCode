@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shlok1205/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shlok1205/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Shlok1205/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Shlok1205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shlok1205/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shlok1205/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shlok1205/LeetCode/tree/master/0075-sort-colors) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shlok1205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shlok1205/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Shlok1205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Shlok1205/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok1205/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Shlok1205/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shlok1205/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Shlok1205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shlok1205/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shlok1205/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
