@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Shlok1205/LeetCode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Shlok1205/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shlok1205/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Shlok1205/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shlok1205/LeetCode/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shlok1205/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok1205/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shlok1205/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Shlok1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Shlok1205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shlok1205/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
