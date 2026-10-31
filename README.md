@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Shlok1205/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shlok1205/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Shlok1205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shlok1205/LeetCode/tree/master/0509-fibonacci-number) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Shlok1205/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Shlok1205/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shlok1205/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shlok1205/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dijkstra's Algorithm
