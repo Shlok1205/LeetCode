@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shlok1205/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shlok1205/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/Shlok1205/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Shlok1205/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Shlok1205/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shlok1205/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -898,5 +899,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shlok1205/LeetCode/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Shlok1205/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
