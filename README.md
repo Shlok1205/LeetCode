@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shlok1205/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Shlok1205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Shlok1205/LeetCode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Shlok1205/LeetCode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Shlok1205/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Shlok1205/LeetCode/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Shlok1205/LeetCode/tree/master/0853-car-fleet) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shlok1205/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Shlok1205/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shlok1205/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Shlok1205/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Shlok1205/LeetCode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Shlok1205/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shlok1205/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Shlok1205/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Shlok1205/LeetCode/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shlok1205/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shlok1205/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
