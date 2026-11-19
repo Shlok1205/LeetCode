@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shlok1205/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Shlok1205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Shlok1205/LeetCode/tree/master/0493-reverse-pairs) |
+| [0621-task-scheduler](https://github.com/Shlok1205/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shlok1205/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Shlok1205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/Shlok1205/LeetCode/tree/master/0704-binary-search) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shlok1205/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shlok1205/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok1205/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/Shlok1205/LeetCode/tree/master/0621-task-scheduler) |
 | [1096-brace-expansion-ii](https://github.com/Shlok1205/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Shlok1205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Shlok1205/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shlok1205/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/Shlok1205/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Shlok1205/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shlok1205/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shlok1205/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shlok1205/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shlok1205/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shlok1205/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0621-task-scheduler](https://github.com/Shlok1205/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shlok1205/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Shlok1205/LeetCode/tree/master/0853-car-fleet) |
 | [1096-brace-expansion-ii](https://github.com/Shlok1205/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shlok1205/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Shlok1205/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Shlok1205/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shlok1205/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shlok1205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Shlok1205/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shlok1205/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -660,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shlok1205/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Shlok1205/LeetCode/tree/master/0621-task-scheduler) |
 | [1267-count-servers-that-communicate](https://github.com/Shlok1205/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Shlok1205/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shlok1205/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
