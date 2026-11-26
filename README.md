@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shlok1205/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Shlok1205/LeetCode/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/Shlok1205/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0404-sum-of-left-leaves](https://github.com/Shlok1205/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Shlok1205/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shlok1205/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Shlok1205/LeetCode/tree/master/0743-network-delay-time) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shlok1205/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Shlok1205/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shlok1205/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Shlok1205/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Shlok1205/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shlok1205/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Shlok1205/LeetCode/tree/master/0743-network-delay-time) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shlok1205/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shlok1205/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shlok1205/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Shlok1205/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shlok1205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shlok1205/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shlok1205/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shlok1205/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shlok1205/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shlok1205/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Shlok1205/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shlok1205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shlok1205/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shlok1205/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
